@@ -301,13 +301,8 @@ pm2 logs ai-creative-platform
 
 MIT License
 
-## 联系方式
 
 如有问题或建议，请通过以下方式联系：
 
-- 提交 Issue
-- 发送邮件至开发者邮箱
+- 发送邮件至2901173931@qq.com邮箱🎉
 
----
-
-**享受AI创作的乐趣！** 🎉
