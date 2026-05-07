@@ -6,9 +6,11 @@
 
 ### 🎨 核心功能
 - **工作流市场** - 浏览、搜索、使用AI创作工作流
+  <img width="959" height="545" alt="屏幕截图 2026-05-07 205514" src="https://github.com/user-attachments/assets/098e4e06-6642-4728-9101-268835c76261" />
 - **作品广场** - 分享和展示AI生成的作品
 - **模型库** - 管理和下载AI模型
 - **数据可视化** - 实时查看平台数据统计和趋势分析
+- <img width="959" height="544" alt="屏幕截图 2026-05-07 205615" src="https://github.com/user-attachments/assets/b61bbb22-9dbd-44e4-8e54-efd18281a52e" />
 - **AI助手** - 智能问答助手，提供创作指导
 <img width="953" height="545" alt="屏幕截图 2026-05-07 205043" src="https://github.com/user-attachments/assets/df930382-98e6-4256-b0cd-65452e13e27b" />
 
@@ -24,6 +26,7 @@
 - JWT身份认证
 - 个人中心管理
 - 点赞和收藏功能
+<img width="310" height="286" alt="屏幕截图 2026-05-07 205657" src="https://github.com/user-attachments/assets/3686c316-d3f0-4ef1-8996-b14d951acdf5" />
 
 ## 技术栈
 
